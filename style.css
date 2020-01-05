@@ -1,0 +1,59 @@
+#latitude{
+    background-color:orange;
+    padding: 15px;
+ 
+
+}
+
+#totalpage{
+    background-color: rgb(219, 219, 219);
+}
+
+#totalpage1{
+    background-color: rgb(219, 219, 219);
+    padding-bottom: 20px;
+}
+
+
+.page-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color:orange;
+    font-size: xx-large;
+    position: absolute;
+    box-sizing: content-box;
+    font-weight: bold;
+}
+
+
+.subpage1-title1{
+    color: orangered;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+
+
+}
+
+h1{
+
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 25px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.subpage1-title2{
+    color: orangered;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+
+
+}
+
+.page2-plot-titles{
+    font-weight: bold;
+}
+
